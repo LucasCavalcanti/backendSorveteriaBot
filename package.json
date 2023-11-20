@@ -1,0 +1,25 @@
+{
+  "name": "backendsorveteriabot",
+  "version": "1.0.0",
+  "description": "Backend para o bot da sorveteria utilizando dialogflow.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasCavalcanti/backendSorveteriaBot.git"
+  },
+  "author": "Lucas Cavalcanti Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasCavalcanti/backendSorveteriaBot/issues"
+  },
+  "homepage": "https://github.com/LucasCavalcanti/backendSorveteriaBot#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.3"
+  }
+}
